@@ -3,7 +3,8 @@ This documentation is for the bitnami application(moodle) which is running on AW
 
 ## Find Application Credentials 
 ### Option 1: Find Credentials By Checking The System Log On The AWS Cloud Console (EC2)
-    After creating EC2 Moodle instance we will get our username and password of Moodle in "Action > Instance Setting > Get System Log".
+    After creating EC2 Moodle instance we will get our username and password 
+    of Moodle in "Action > Instance Setting > Get System Log".
 
 (NOTE: We can see this log only once when we stop an instance we won't see it again)
 
