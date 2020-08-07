@@ -13,8 +13,7 @@ This documantaion is for the bitnami appliaction(moodle) which is running on AWS
 `   sudo cat /home/bitnami/bitnami_credentials
 `
    
-    You can find more information from
-    'https://docs.bitnami.com/aws/faq/get-started/find-credentials/'
+   You can find more information from 'https://docs.bitnami.com/aws/faq/get-started/find-credentials/'.
 
 ## Customisation Of Application
 
