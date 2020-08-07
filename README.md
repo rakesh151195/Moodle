@@ -1,5 +1,5 @@
 # Moodle Documentation
-This documantaion is for the bitnami appliaction(moodle) which is running on AWS ec2 instance
+This documentation is for the bitnami application(moodle) which is running on AWS ec2 instance
 
 ## Find Application Credentials 
 ### Option 1: Find Credentials By Checking The System Log On The AWS Cloud Console (EC2)
@@ -17,20 +17,20 @@ This documantaion is for the bitnami appliaction(moodle) which is running on AWS
 
 ## Customisation Of Application
 
-- After Login as super user we get "customising this page" option on top of rigth corner using this we can customise our home page.
+- After log in as superuser we get "customizing this page" option on top of the right corner using this we can customize our home page.
 
-- An administrator can change theme settings and customise  in "Site administration > Appearance > Themes"
-    If we want to add new theme then we can download theme plugin from here 'https://moodle.org/plugins/'.
+- An administrator can change theme settings and customize in "Site administration > Appearance > Themes"
+    If we want to add a new theme then we can download the theme plugin from here 'https://moodle.org/plugins/'.
 
-- We can install, update and delete plugings in "Site administration > Plugins" this section.
+- We can install, update, and delete plugins in "Site administration > Plugins" in this section.
 
-## UPLODE USERS
+## UPLOAD USERS
 
-- For adding multiple users we need to create text or csv file and we have to mention appropriate field in the file.
+- For adding multiple users we need to create text or CSV file and we have to mention the appropriate field in the file.
 
-- After uploading users we can create cohorts and assign a role then we can enroll multiple users in the courses and add some restriction on them.
+- After uploading users we can create cohorts and assign a role then we can enroll multiple users in the courses and add some restrictions on them.
 
-- We can check the permision of the perticuler user in "Site administration > Users > Permissions > Check system permissions".
+- We can check the permission of the particular user in "Site administration > Users > Permissions > Check system permissions".
 
 ## CATEGORIES AND COURSES
 
