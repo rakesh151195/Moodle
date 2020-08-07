@@ -37,4 +37,6 @@ This documentation is for the bitnami application(moodle) which is running on AW
 
 ## LANGUAGE SETTING
 
+- To change the language of site 
+
 ## Transitioning to HTTPS
