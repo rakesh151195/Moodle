@@ -29,14 +29,14 @@ Platform Details: Linux/UNIX
 
    You can find more information from 'https://docs.bitnami.com/aws/faq/get-started/find-credentials/'.
 
-## Changing Credentials
+## CHANGING CREDENTIALS
 
 - Once logged in by default username and password you can update the password for ease of understanding by following the steps below :
     Click on "Admin User" on top right corner >Profile
     Actions Menu appears alongside > Change password
     Follow the steps after and Save changes once done.
 
-## Customisation Of Application
+## CUSTOMIZATION OF APPLICATION
 
 - After Login as superuser, we get "customizing this page" option on the top right corner using this we can customize our home page.
 
@@ -57,7 +57,7 @@ Platform Details: Linux/UNIX
 
 ## LANGUAGE SETTING
 
-## ATTACH ELASTIC IP TO INSTANCE
+## ATTACH ELASTIC IP TO AN INSTANCE
 
 -On your EC2 AWS Console goto:
 	Network & Security > Elastic IPs > Allocate Elastic IP address > Allocate
